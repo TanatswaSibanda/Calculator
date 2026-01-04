@@ -38,6 +38,7 @@ button:active {
     background-color: rgb(255, 221, 242);
     border-radius: 15px;
     max-width: 500px;
+    margin-top: 30px;
     overflow: hidden;
 }
 
