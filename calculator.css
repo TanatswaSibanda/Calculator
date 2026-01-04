@@ -37,14 +37,15 @@ button:active {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: rgb(255, 221, 242);
     border-radius: 15px;
-    max-width: 500px;
+    width: 90%;
+    max-width: 400px;
     overflow: hidden;
 }
 
 #display {
     width: 100%;
     padding: 20px;
-    font-size: 4rem;
+    font-size: 2rem;
     text-align: left;
     border: none;
     color: white;
