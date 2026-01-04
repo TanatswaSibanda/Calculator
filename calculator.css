@@ -4,11 +4,10 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    padding-top: 50px;
 }
 
 button {
-     width: 100px;
+    width: 100px;
     height: 100px;
     background-color: rgb(252, 137, 175);
     border-radius: 50%;
@@ -29,8 +28,8 @@ button:active {
 #keys {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 6px;
-    padding: 8px;
+    gap: 10px;
+    padding: 20px;
 
 }
 
@@ -40,14 +39,13 @@ button:active {
     border-radius: 15px;
     width: 90%;
     max-width: 300px;
-    box-sizing: border-box;
-   
+  
 }
 
 #display {
     width: 100%;
     padding: 20px;
-    font-size: 2rem;
+    font-size: 4rem;
     text-align: left;
     border: none;
     color: white;
