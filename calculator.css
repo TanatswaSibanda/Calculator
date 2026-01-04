@@ -9,8 +9,6 @@ body {
 
 button {
     width: 100%;
-    aspect-ratio: 1;
-    font-size: 1.2rem;
     background-color: rgb(252, 137, 175);
     border-radius: 50%;
     border-style: none;
