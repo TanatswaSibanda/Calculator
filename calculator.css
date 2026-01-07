@@ -39,7 +39,7 @@ button:active {
     background-color: rgb(255, 221, 242);
     border-radius: 15px;
     width: 280px;
-    max-width: 90%;
+    max-width: 100%;
     padding: 10px;
 }
 
