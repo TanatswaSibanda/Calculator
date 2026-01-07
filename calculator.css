@@ -52,8 +52,9 @@ button:active {
     padding: 10px;
     font-size: 1.8rem;
     margin-bottom: 10px;
-    
+    box-sizing: border-box;
 }
+
 
 .operator {
     background-color: rgb(255, 34, 108);
