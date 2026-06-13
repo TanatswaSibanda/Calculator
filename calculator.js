@@ -18,3 +18,6 @@ function calculate() {
         display.value = "ERROR"
     }
 }
+function deleteNum() {
+    display.value = display.value.slice(0, -1);
+}
